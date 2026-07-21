@@ -5,4 +5,4 @@ jobs:
   runs_on: ubuntu_latest
   steps:
       - name: hello step
-         run: echo "Welcome to GHA"
+        run: echo "Welcome to GHA"
